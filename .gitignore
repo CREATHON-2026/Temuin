@@ -43,5 +43,4 @@ next-env.d.ts
 
 # materi internal presentasi (tidak untuk repo publik)
 /docs/presentasi/
-scripts/generate-ppt.py
-scripts/generate-panduan.py
+scripts/generate-*.py
