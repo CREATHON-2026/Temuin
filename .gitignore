@@ -44,3 +44,9 @@ next-env.d.ts
 # materi internal presentasi (tidak untuk repo publik)
 /docs/presentasi/
 scripts/generate-*.py
+
+# --- jangan upload file rahasia ---
+.env
+.env.*
+!.env.example
+*.env
